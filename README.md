@@ -30,4 +30,4 @@ and predicts the final score of a student.
 
 ---
 
-## 📂 Project Structure
+
